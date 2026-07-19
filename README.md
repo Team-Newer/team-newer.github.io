@@ -6,4 +6,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Team-Newer/Newer-Shop-Channel/main/logo.png" alt="Newer Shop Channel Logo" width="200">
+<img src="https://raw.githubusercontent.com/Team-Newer/Newer-Shop-Channel/main/logo.png" alt="Newer Shop Channel Logo" width="120">
